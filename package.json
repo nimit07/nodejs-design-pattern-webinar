@@ -1,0 +1,17 @@
+{
+  "name": "recro",
+  "version": "1.0.0",
+  "description": "tests",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mkdirp": "^1.0.4",
+    "slug": "^3.5.1",
+    "superagent": "^6.1.0"
+  }
+}
